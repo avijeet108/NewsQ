@@ -1,16 +1,11 @@
-# newsq
+# NewsQ
 
-A new Flutter project.
+## Sample Screens
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/73739259/147482464-57ead387-f28a-443c-b34f-04e4c0e6970b.png" height="600" width="350" />
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/73739259/147482565-73cadac9-18b1-4aa8-82ab-4d9d85de2811.png" height="600" width="350" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/73739259/147482580-aee98785-631c-4dfa-a2ed-d32aa64bd4cb.png" height="600" width="350" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
